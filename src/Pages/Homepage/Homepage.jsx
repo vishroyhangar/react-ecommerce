@@ -1,5 +1,5 @@
 import React from 'react';
-import './Homepage.scss';
+import './HomePage.scss';
 import Directory from '../../Components/Directory/Directory.jsx';
 
 const Homepage = () => {
